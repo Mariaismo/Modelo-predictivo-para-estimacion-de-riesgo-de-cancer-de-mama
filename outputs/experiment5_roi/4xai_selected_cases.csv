@@ -1,0 +1,5 @@
+test_index,case_folder,patient_id,processed_image,roi_label,mammogram_label,prob_benign,prob_malignant,prediction,result_type,confidence
+633,Mass-Training_P_01671_LEFT_CC,P_01671,images_roi_full/test_P_01671_Mass-Training_P_01671_LEFT_CC_roi_01.npy,1,1,0.012083143927156925,0.987916886806488,1,TP,0.987916886806488
+276,Calc-Training_P_00750_LEFT_CC,P_00750,images_roi_full/test_P_00750_Calc-Training_P_00750_LEFT_CC_roi_01.npy,0,0,0.9764869809150696,0.0235130675137043,0,TN,0.9764869809150696
+433,Mass-Training_P_01250_RIGHT_CC,P_01250,images_roi_full/test_P_01250_Mass-Training_P_01250_RIGHT_CC_roi_01.npy,0,0,0.031968116760253906,0.9680318832397461,1,FP,0.9680318832397461
+674,Mass-Training_P_01853_LEFT_MLO,P_01853,images_roi_full/test_P_01853_Mass-Training_P_01853_LEFT_MLO_roi_01.npy,1,1,0.93165522813797,0.06834471225738525,0,FN,0.93165522813797
